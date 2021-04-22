@@ -1,0 +1,22 @@
+Capomulin, versus the other treatment regimens
+
+The goal of this study was to compare Capomulin to other drug regimens used to treat SCC tumor growth. 
+
+The population of the study was closly split between male (50.7%) and female (49.3%) mice.  
+
+Of the four drug treatments of interest Campulin and Ramicane performed the best.  
+
+Mice treated with those drugs had an average final tummor volumne around 35mm3 compared to almost 
+60mm3 for Ceftamin and Infubinol. 
+
+Additional annalysis for Capomulin shows that over the study period tummor growth in a single mouse decreased 
+about 20 mm3. 
+
+For future study, I would look more closely at how Ramicane performs over time because mice treated with Ramicane on average had 
+smaller tummors.  Compared to the other four drugs of interest Ramicane also had the smallest maximum and minimum tummor growth. 
+
+This study also highlights that there this a strong positive correlation between weight and and tumor size.  
+
+One thing to keep in mind while reviewing these results is Capomulin and Ramicane and almost 
+30% more measurements taken than Ceftamin and Infubinol which may be skewing the results of the study.  
+
